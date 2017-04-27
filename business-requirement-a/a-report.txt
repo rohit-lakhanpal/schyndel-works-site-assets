@@ -1,0 +1,8 @@
+BR (A).1
+- Created ec2 t2.micro vm with instance id <<enter instance id>>
+- Download source & compile apache with the following config params:
+    ./configure --with-port=8080 ...
+
+BR (A).1.1
+- Changed Listen directive in httpd.conf to 8080 from 80
+...

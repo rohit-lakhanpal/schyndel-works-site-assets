@@ -1,0 +1,17 @@
+Links:
+======
+Web-Server-A:	<<Enter the FQDN URL for Web-Server-A>>
+Web-Server-B:	<<Enter the FQDN URL for Web-Server-B>>
+Load-Balancer:	<<Enter the FQDN URL for Load-Balancer>>
+
+Instance Id:
+============
+Web-Server-A:	<<Enter the instance id for Web-Server-A>>
+Web-Server-B:	<<Enter the instance id for Web-Server-B>>
+Load-Balancer:	<<Enter the instance id for Load-Balancer>>
+
+Instance Type:
+=============
+Web-Server-A:	t2.micro
+Web-Server-B:	t2.large
+Load-Balancer:	t2.xlarge
