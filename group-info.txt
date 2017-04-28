@@ -10,22 +10,25 @@ Assignment
 Student 1 Details:
 - Last Name:	<<Enter Student1 Last Name>>
 - First Name:	<<Enter Student1 First Name>>
-- Type:		<<Enter PG/UG>>
+- Type:		    <<Enter PG/UG>>
+- Student ID:   <<Enter Student 1 ID>>
 
 Student 2 Details:
 - Last Name:	<<Enter Student2 Last Name>>
 - First Name:	<<Enter Student2 First Name>>
-- Type:		<<Enter PG/UG>>
+- Type:		    <<Enter PG/UG>>
+- Student ID:   <<Enter Student 2 ID>>
 
 Student 3 Details:
 - Last Name:	<<Enter Student3 Last Name>>
 - First Name:	<<Enter Student3 First Name>>
-- Type:		<<Enter PG/UG>>
+- Type:		    <<Enter PG/UG>>
+- Student ID:   <<Enter Student 3 ID>>
 
 
 DECLARATION AND STATEMENT OF AUTHORSHIP:
 1.	I/we hold a copy of this assignment, which can be produced if the original is lost or damaged.
-2.	This assignment is my/our original work and no part of it has been copied from any other student’s work or from any other source except where due acknowledgement is made.
+2.	This assignment is my/our original work and no part of it has been copied from any other studentï¿½s work or from any other source except where due acknowledgement is made.
 3.	No part of this assignment has been written for me/us by any other person except where such collaboration has been authorised by the lecturer concerned. 
 4.	I/we have not previously submitted this work for any other course/unit.
 5.	This work may be reproduced and/or communicated for the purpose of detecting plagiarism
